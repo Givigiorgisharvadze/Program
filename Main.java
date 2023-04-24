@@ -8,7 +8,6 @@ public class Main {
     private static final String FILE_PATH = "Program.txt";
 
     private Main() {
-        // private constructor to prevent instantiation
     }
 
     public static void main(String[] args) {
